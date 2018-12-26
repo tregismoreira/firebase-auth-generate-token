@@ -1,6 +1,6 @@
 # Firebase Auth Generate Token
 
-This is a very simple CLI written in NodeJs to generate the Firebase access token from email and password.
+This is a very simple NodeJs script to generate the Firebase access token from email and password.
 
 ## Getting Started
 
